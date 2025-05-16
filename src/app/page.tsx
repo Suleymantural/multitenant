@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button";
-
+/* test */
 export default function Home() {
   return (
     <div>
-      <Button variant="cwa">
+      <p className="text-rose-500">
         SUMbuilders
-      </Button>
+      </p>
     </div>
-  )
-}
+  );
+};
